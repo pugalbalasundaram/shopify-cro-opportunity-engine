@@ -110,7 +110,7 @@ Shopify-CRO-Opportunity-Engine/
 ### Clone the repository
 
 ```bash
-git clone https://github.com/your-username/Shopify-CRO-Opportunity-Engine.git
+git clone https://github.com/pugalbalasundaram/Shopify-CRO-Opportunity-Engine.git
 
 cd Shopify-CRO-Opportunity-Engine
 ```
