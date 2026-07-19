@@ -221,21 +221,13 @@ http://localhost:3000
 
 ### Home Page
 
-_Add screenshot here_
+<img width="1366" height="768" alt="Screenshot (73)" src="https://github.com/user-attachments/assets/ea48e8cb-23f7-4622-b49c-ab42bfa9a316" />
 
----
 
 ### Dashboard
 
-_Add screenshot here_
+<img width="1366" height="768" alt="Screenshot (72)" src="https://github.com/user-attachments/assets/511bc007-57d3-4b82-9bed-c4a3a63e1664" />
 
----
-
-### Generated Report
-
-_Add screenshot here_
-
----
 
 ## Future Improvements
 
